@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "928456547223",
+    "firebase_url": "https://ringtone-a8eb0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ringtone-a8eb0",
+    "storage_bucket": "ringtone-a8eb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928456547223:android:ffd7a508ef0322221d42d2",
+        "android_client_info": {
+          "package_name": "com.ashstudio.nadaderingcewek.cutegirls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928456547223-hped4gg3nsrp0nduv55f4tfj8tl9m2as.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAkxO2Mdc3tg_Lx9E4xbQE0E5i9oTojn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928456547223-hped4gg3nsrp0nduv55f4tfj8tl9m2as.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
